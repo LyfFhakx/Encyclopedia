@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Encyclopdia</string>
+    <string name="favorite">Избранное</string>
+    <string name="planets">Планеты</string>
+    <string name="stars">Звезды</string>
+
+    <string name="cosmos">Космос</string>
+    <string name="quote">Цитаты</string>
+    <string name="philosophy">Философы</string>
+    <string name="celebrities">Знаменитости</string>
+
+</resources>
